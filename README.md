@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZAINLATIF01
+- 👋 Hi, I’m ZAIN LATIF
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning BS Cyber Security
 - 💞️ I’m looking to collaborate on Different Software's
